@@ -3,17 +3,19 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-import Michart from "./lineChart.jsx";
-import Carta from "./carta_con_ejem.jsx";
+import Carta from "./componentes/carta_con_ejem.jsx";
+import LineChartVES from "./componentes/lineChartVES.jsx";
+import LineChartARS from "./componentes/lineChartARS.jsx";
 
 function App() {
   const [count, setCount] = useState(0)
   //console.log("probando"+miLinechart)
   return (
     <>
-      <Carta />     
-      <Michart />     
-        
+      {/* <Carta /> */}
+      
+      <LineChartVES /> 
+      <LineChartARS /> 
     </>
   )
 }

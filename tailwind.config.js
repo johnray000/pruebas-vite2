@@ -8,6 +8,7 @@ module.exports = {
     // Path to the Tremor module
     "./node_modules/@tremor/**/*.{js,ts,jsx,tsx}",
   ],
+  //darkMode: "class", //activas el light-mode
   theme: {
     transparent: "transparent",
     current: "currentColor",

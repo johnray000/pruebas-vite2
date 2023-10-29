@@ -1,0 +1,23 @@
+{
+  "data": [
+    { "Fecha": "03/10", "Precio VES": 35.84, "Semana": 40, "Fecha_formateada": "oct 3" },
+    { "Fecha": "04/10", "Precio VES": 36.17, "Semana": 40, "Fecha_formateada": "oct 4" },
+    { "Fecha": "05/10", "Precio VES": 36.51, "Semana": 40, "Fecha_formateada": "oct 5" },
+    { "Fecha": "06/10", "Precio VES": 36.26, "Semana": 40, "Fecha_formateada": "oct 6" },
+    { "Fecha": "09/10", "Precio VES": 36.31, "Semana": 41, "Fecha_formateada": "oct 9" },
+    { "Fecha": "10/10", "Precio VES": 36.18, "Semana": 41, "Fecha_formateada": "oct 10" },
+    { "Fecha": "11/10", "Precio VES": 36.05, "Semana": 41, "Fecha_formateada": "oct 11" },
+    { "Fecha": "12/10", "Precio VES": 36.66, "Semana": 41, "Fecha_formateada": "oct 12" },
+    { "Fecha": "13/10", "Precio VES": 36.62, "Semana": 41, "Fecha_formateada": "oct 13" },
+    { "Fecha": "16/10", "Precio VES": 36.38, "Semana": 42, "Fecha_formateada": "oct 16" },
+    { "Fecha": "17/10", "Precio VES": 36.68, "Semana": 42, "Fecha_formateada": "oct 17" },
+    { "Fecha": "18/10", "Precio VES": 36.77, "Semana": 42, "Fecha_formateada": "oct 18" },
+    { "Fecha": "19/10", "Precio VES": 36.58, "Semana": 42, "Fecha_formateada": "oct 19" },
+    { "Fecha": "20/10", "Precio VES": 36.5, "Semana": 42, "Fecha_formateada": "oct 20" },
+    { "Fecha": "23/10", "Precio VES": 36.84, "Semana": 43, "Fecha_formateada": "oct 23" },
+    { "Fecha": "24/10", "Precio VES": 36.83, "Semana": 43, "Fecha_formateada": "oct 24" },
+    { "Fecha": "25/10", "Precio VES": 36.81, "Semana": 43, "Fecha_formateada": "oct 25" },
+    { "Fecha": "26/10", "Precio VES": 37.01, "Semana": 43, "Fecha_formateada": "oct 26" },
+    { "Fecha": "27/10", "Precio VES": 37.17, "Semana": 43, "Fecha_formateada": "oct 27" }
+  ]
+}

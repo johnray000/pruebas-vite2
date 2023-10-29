@@ -1,0 +1,28 @@
+{
+  "data":[
+    { "Fecha": "27/09", "Precio ARS": 773, "Semana": 39, "Fecha_formateada": "sep 27" },
+    { "Fecha": "28/09", "Precio ARS": 785, "Semana": 39, "Fecha_formateada": "sep 28" },
+    { "Fecha": "29/09", "Precio ARS": 800, "Semana": 39, "Fecha_formateada": "sep 29" },
+    { "Fecha": "02/10", "Precio ARS": 798, "Semana": 40, "Fecha_formateada": "oct 2" },
+    { "Fecha": "03/10", "Precio ARS": 805, "Semana": 40, "Fecha_formateada": "oct 3" },
+    { "Fecha": "04/10", "Precio ARS": 845, "Semana": 40, "Fecha_formateada": "oct 4" },
+    { "Fecha": "05/10", "Precio ARS": 843, "Semana": 40, "Fecha_formateada": "oct 5" },
+    { "Fecha": "06/10", "Precio ARS": 880, "Semana": 40, "Fecha_formateada": "oct 6" },
+    { "Fecha": "09/10", "Precio ARS": 940, "Semana": 41, "Fecha_formateada": "oct 9" },
+    { "Fecha": "10/10", "Precio ARS": 1025, "Semana": 41, "Fecha_formateada": "oct 10" },
+    { "Fecha": "11/10", "Precio ARS": 1015, "Semana": 41, "Fecha_formateada": "oct 11" },
+    { "Fecha": "12/10", "Precio ARS": 970, "Semana": 41, "Fecha_formateada": "oct 12" },
+    { "Fecha": "13/10", "Precio ARS": 980, "Semana": 41, "Fecha_formateada": "oct 13" },
+    { "Fecha": "16/10", "Precio ARS": 980, "Semana": 42, "Fecha_formateada": "oct 16" },
+    { "Fecha": "17/10", "Precio ARS": 985, "Semana": 42, "Fecha_formateada": "oct 17" },
+    { "Fecha": "18/10", "Precio ARS": 910, "Semana": 42, "Fecha_formateada": "oct 18" },
+    { "Fecha": "19/10", "Precio ARS": 1000, "Semana": 42, "Fecha_formateada": "oct 19" },
+    { "Fecha": "20/10", "Precio ARS": 1211, "Semana": 42, "Fecha_formateada": "oct 20" },
+    { "Fecha": "23/10", "Precio ARS": 1002, "Semana": 43, "Fecha_formateada": "oct 23" },
+    { "Fecha": "24/10", "Precio ARS": 1090, "Semana": 43, "Fecha_formateada": "oct 24" },
+    { "Fecha": "25/10", "Precio ARS": 1000, "Semana": 43, "Fecha_formateada": "oct 25" },
+    { "Fecha": "26/10", "Precio ARS": 1000, "Semana": 43, "Fecha_formateada": "oct 26" },
+    { "Fecha": "27/10", "Precio ARS": 990, "Semana": 43, "Fecha_formateada": "oct 27" }
+]
+
+}
