@@ -20,16 +20,16 @@ export default () => {
   }, [datosExcel]);
   */
   return (
-    <Card className="mx-auto ">
+    <Card className="mx-auto">
       <Title>Precio del Dolar ARGENTINA</Title>
       <LineChart
-        className="mt-6"
+        className="h-[38vh] min-h-[300px]"
         data={chartData}
         index="Fecha_formateada"
         categories={["Precio ARS"]}
         colors={["emerald", "gray"]}
         valueFormatter={valueFormatter}
-        yAxisWidth={30}
+        yAxisWidth={40}
         autoMinValue={true}
         style={{
           //marginLeft: "-10px", // Ajusta la distancia a la izquierda

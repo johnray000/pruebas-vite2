@@ -20,10 +20,10 @@ export default () => {
   }, [datosExcel]);
   */
   return (
-    <Card className="mx-auto mb-2 " >
+    <Card className="mx-auto mb-2" >
       <Title>Precio del Dolar VZLA</Title>
       <LineChart
-        className="mt-6"
+        className="h-[38vh] min-h-[300px]"
         data={chartData}
         index="Fecha_formateada"
         categories={["Precio VES"]}
